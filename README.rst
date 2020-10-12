@@ -9,10 +9,15 @@ Compatibility
 
 Python 2.7
 
+Documentation
+*************
+
+You can find the documentation at `Read the Docs <https://fplib.readthedocs.io/en/latest>`_.
+
 Instalation
 ***********
 
-For the latest release, install using: 
+Install the latest release using: 
 
 ``$ pip install fplib``
 
