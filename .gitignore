@@ -1,0 +1,18 @@
+# Distribution / Packaging
+__pycache__
+build/
+dist/
+*.egg-info/
+*.pyc
+#*#
+.#*
+
+# Installation scripts
+pip-*
+py-*
+
+# Documentation-related scripts
+doc-*
+
+# Documentation-related
+doc/_build/
