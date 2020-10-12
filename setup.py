@@ -25,7 +25,7 @@ setup(
   long_description_content_type='text/x-rst', 
   author="Miroslav Hruska",
   author_email="hruska.miro@gmail.com", 
-  url=['https://github.com/hruskamiro/fplib'],   
+  url='https://github.com/hruskamiro/fplib', 
   py_modules=['fplib'], 
   license="MIT", 
   keywords="functional programming",
