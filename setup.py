@@ -12,14 +12,10 @@ cwd = os.path.abspath(os.path.dirname(__file__))
 with open(os.path.join(cwd, 'README.rst')) as h:
   long_description = h.read()
 
-#%% Obtaining the version
-with open(os.path.join(cwd, '_version.py')) as h:
-  exec(h.read())
-
 #%% Actual setup
 setup(
   name="fplib",
-  version=__version__,
+  version='0.1.1',
   description="A functional programming library for python.",  
   long_description=long_description, 
   long_description_content_type='text/x-rst', 

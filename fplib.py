@@ -147,8 +147,6 @@ import itertools as _it
 import collections as _collections
 from functools import reduce as _reduce
 
-from _version import __version__
-
 #%% * General-purpose functions
 def idf(x):
   """
