@@ -54,3 +54,6 @@ html_theme = 'alabaster'
 html_static_path = ['_static']
 
 autodoc_member_order = 'bysource'
+
+# Master document
+master_doc = 'index'
